@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "done.md",
+                "file": "ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f983935ad157946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "answer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4408364bc9f37438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d97c42508e74c534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "debug_log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "397207bd670238dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hacks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "done.md",
+                "file": "hacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "done.md",
+                "file": "hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "done.md"
+                "file": "hacks.md"
               }
             }
           }
@@ -147,12 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75ca3bc42b47306f",
+  "active": "397207bd670238dc",
   "lastOpenFiles": [
-    "done.md",
-    "ideas.md",
-    "README.md",
+    "debug_log.md",
+    "todo.md",
     "hacks.md",
+    "README.md",
+    "log.md",
+    "learn.md",
+    "answer.md",
+    "ideas.md",
+    "done.md",
     "bib.md"
   ]
 }
