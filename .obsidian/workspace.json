@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ideas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,8 +141,8 @@
   },
   "active": "5bc6e07128767119",
   "lastOpenFiles": [
-    "README.md",
     "ideas.md",
+    "README.md",
     "hacks.md",
     "bib.md"
   ]
