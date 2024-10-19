@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f983935ad157946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "answer.md",
+                "file": "learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d97c42508e74c534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "debug_log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "397207bd670238dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b6ae7253fa23ddad",
@@ -134,8 +97,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hacks.md",
-                "collapseAll": false,
+                "file": "learn.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hacks.md",
+                "file": "learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hacks.md"
+                "file": "learn.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,20 +157,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "397207bd670238dc",
+  "active": "75ca3bc42b47306f",
   "lastOpenFiles": [
-    "debug_log.md",
-    "todo.md",
     "hacks.md",
-    "README.md",
-    "log.md",
-    "learn.md",
-    "answer.md",
-    "ideas.md",
     "done.md",
-    "bib.md"
+    "answer.md",
+    "todo.md",
+    "log.md",
+    "README.md",
+    "learn.md",
+    "ideas.md",
+    "bib.md",
+    "schedule.md",
+    "daily/2024-10-19.md",
+    "2024-10-19.md",
+    "debug_log.md",
+    "daily"
   ]
 }
