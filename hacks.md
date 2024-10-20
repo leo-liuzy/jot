@@ -27,6 +27,12 @@ sstat -j $SLURM_JOB_ID
 sinfo -p
 ```
 
+# wandb
+**Sync all offline wandb runs**
+```bash
+find . -type l -name latest-run -exec wandb sync --entity leo-liuzy --no-include-synced {} +
+```
+
 # Bash Note
 
 ## To sync two folders
