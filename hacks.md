@@ -11,7 +11,7 @@ pipreqs /path/to/project
 
 **Check my association**
 
-```jsx
+```bash
 sacctmgr show association -p user=$USER
 ```
 
@@ -27,6 +27,10 @@ sstat -j $SLURM_JOB_ID
 sinfo -p
 ```
 
+
+```bash
+squeue -u $USER
+```
 # wandb
 **Sync all offline wandb runs**
 ```bash
@@ -50,6 +54,14 @@ curl -sSL <https://raw.githubusercontent.com/rvm/rvm/master/binscripts/rvm-insta
 
 ```
 
+## Sync shared folder
+```bash
+
+rsync -azP --chmod=D770,F660 [source dir] [target parent dir]
+
+```
+
+
 ## Loop through `find` results
 
 ```bash
@@ -63,6 +75,40 @@ done
 
 ```bash
 lsof +D .vscode-server | awk '{print $2}' | tail -n +2 | xargs -r kill -9
+```
+
+# Oh-my-zsh
+## setup
+```bash
+" in ~/.zshrc
+plugins=(
+     git
+     bundler
+     dotenv
+     rake
+     rbenv
+     ruby
+     npm
+     z
+     colored-man-pages
+     zsh-syntax-highlighting
+     zsh-autosuggestions
+     fast-syntax-highlighting
+     zsh-autocomplete
+ )
+"
+
+# zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+# zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+# fast-syntax-highlighting
+git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
+
+# zsh-autocomplete
+git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autocomplete
 ```
 
 # Huggingface
