@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "735e49cc9c231297",
+    "id": "240007023dac5925",
     "type": "split",
     "children": [
       {
-        "id": "feee88e20850176c",
+        "id": "53c8a59263068409",
         "type": "tabs",
         "children": [
           {
-            "id": "75ca3bc42b47306f",
+            "id": "65e97104d9ae4e2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "New tab"
             }
           }
         ]
@@ -27,27 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8f31c69e16ce43bd",
+    "id": "4b95aa6a9bd949cd",
     "type": "split",
     "children": [
       {
-        "id": "957a3cd8db6e6cef",
+        "id": "22474dfd6bfc979f",
         "type": "tabs",
         "children": [
           {
-            "id": "5bc6e07128767119",
+            "id": "d6122af00b4799fe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "f8848061e493eb9b",
+            "id": "63ef3a484542ea77",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +61,7 @@
             }
           },
           {
-            "id": "f47eb60599e048e5",
+            "id": "def3f751b02bfae5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,24 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "b6ae7253fa23ddad",
+    "id": "e033bef7f4a38ae9",
     "type": "split",
     "children": [
       {
-        "id": "6c2fed9287438d54",
+        "id": "4e72920378d98c1a",
         "type": "tabs",
         "children": [
           {
-            "id": "917eb2aeb333cd82",
+            "id": "14c731aaa6d8102e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "done.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,50 +99,53 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for done"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "02e234a0b69914db",
+            "id": "7782e3ba692b509d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from done"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "859d4337525ce09d",
+            "id": "e614774518242860",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "056fe901aa3e19df",
+            "id": "7f5070fea40b57fd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "done.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of done"
+              "title": "Outline"
             }
           },
           {
-            "id": "55105cf88bf5f63f",
+            "id": "ac580a810ab0acfe",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -170,27 +169,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75ca3bc42b47306f",
+  "active": "d6122af00b4799fe",
   "lastOpenFiles": [
-    "hacks.md",
-    "done.md",
+    "todo.md",
+    "resource.md",
     "read.md",
-    "README.md",
-    "bib.md",
     "learn.md",
     "ideas.md",
-    "todo.md",
-    "().md",
+    "hacks.md",
+    "done.md",
+    "bib.md",
     "answer.md",
-    "log.md",
-    "daily/2024-10-19.md",
-    "schedule.md",
-    "2024-10-19.md",
-    "debug_log.md",
-    "daily"
+    "README.md",
+    "untitled folder",
+    "Welcome.md"
   ]
 }
