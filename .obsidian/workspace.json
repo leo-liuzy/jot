@@ -11,36 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "cff64df6a0e37e7a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "home"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,16 +183,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "cff64df6a0e37e7a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "learn.md",
     "home.canvas",
+    "learn.md",
     "ideas.md",
     "done.md",
     "resource.md",
