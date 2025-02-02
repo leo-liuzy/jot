@@ -173,10 +173,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "d6122af00b4799fe",
+  "active": "669a72b1f40d3df7",
   "lastOpenFiles": [
     "daily/2025-02-02.md",
     "todo.md",
