@@ -10,3 +10,10 @@ On the Logic of Theory Change: Partial Meet Contraction and Revision Functions
 
 [Current and Future Challenges in Knowledge Representation and Reasoning](https://arxiv.org/pdf/2308.04161)
 
+# Linear Attention
+nice survey slides on recent linear attention + state-space type models, from Songlin Yang: 
+https://sustcsonglin.github.io/assets/pdf/talk_250117.pdf
+
+## Paper writing
+
+https://deviparikh.com/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf

@@ -9,30 +9,30 @@ pipreqs /path/to/project
 
 # Slurm
 
-**Check my association**
+## Check my association
 
 ```bash
 sacctmgr show association -p user=$USER
 ```
 
-**Check the meta-data about a job**
+## Check the meta-data about a job
 
 ```bash
 sstat -j $SLURM_JOB_ID
 ```
 
-**Check the usage status of a partition**
+## Check the usage status of a partition
 
 ```bash
 sinfo -p
 ```
 
-
+## Check the *run time* of current jobs
 ```bash
 squeue -u $USER
 ```
 # wandb
-**Sync all offline wandb runs**
+## Sync all offline wandb runs
 ```bash
 find . -type l -name latest-run -exec wandb sync --entity leo-liuzy --no-include-synced {} +
 ```
@@ -75,6 +75,11 @@ done
 
 ```bash
 lsof +D .vscode-server | awk '{print $2}' | tail -n +2 | xargs -r kill -9
+```
+
+## Redirect all output
+```bash
+cmd > log_file 2>&1
 ```
 
 # Oh-my-zsh
