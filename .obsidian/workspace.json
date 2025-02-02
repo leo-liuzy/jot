@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1cbcdf951a2eb73c",
+        "id": "d1c243f12b46915c",
         "type": "tabs",
         "children": [
           {
-            "id": "669a72b1f40d3df7",
+            "id": "a10835d97e269788",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "resource.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "resource"
             }
           }
         ]
@@ -178,20 +182,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "669a72b1f40d3df7",
+  "active": "d6122af00b4799fe",
   "lastOpenFiles": [
+    "README.md",
+    "read.md",
+    "resource.md",
+    "learn.md",
+    "ideas.md",
+    "home.md",
     "daily/2025-02-02.md",
     "todo.md",
     "daily",
-    "learn.md",
     "done.md",
-    "ideas.md",
-    "read.md",
-    "resource.md",
     "hacks.md",
     "bib.md",
     "answer.md",
-    "README.md",
     "untitled folder",
     "Welcome.md"
   ]
