@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "daily/2025-02-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "2025-02-02"
             }
           },
           {
-            "id": "670e9d2556f6b671",
+            "id": "447e329acd6d56e9",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -30,23 +30,9 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "500f8803fdc98d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,9 +204,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d6122af00b4799fe",
+  "active": "447e329acd6d56e9",
   "lastOpenFiles": [
     "home.md",
+    "daily/2025-02-02.md",
+    "todo.md",
+    "calendar",
     "bib.md",
     "Google",
     "resource.md",
@@ -228,8 +217,6 @@
     "read.md",
     "learn.md",
     "ideas.md",
-    "daily/2025-02-02.md",
-    "todo.md",
     "daily",
     "done.md",
     "hacks.md",
