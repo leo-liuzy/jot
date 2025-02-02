@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiCheck",
+      "LiHome",
+      "LiListTodo",
+      "LiCodeSquare",
+      "LiLightbulb"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,12 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "read.md": "LiBookOpenText",
+  "learn.md": "LiPenBox",
+  "ideas.md": "LiLightbulb",
+  "hacks.md": "LiCodeSquare",
+  "todo.md": "LiListTodo",
+  "home.canvas": "LiHome",
+  "done.md": "LiCheck"
 }

@@ -13,15 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-02-02.md",
+                "file": "todo.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-02"
+              "title": "todo"
+            }
+          },
+          {
+            "id": "cff64df6a0e37e7a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +59,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -142,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-02-02.md",
+                "file": "home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-02"
+              "title": "Outline of home"
             }
           },
           {
@@ -193,26 +212,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac580a810ab0acfe",
+  "active": "cff64df6a0e37e7a",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "home.md",
-    "daily/2025-02-02.md",
     "learn.md",
-    "done.md",
-    "bib.md",
-    "daily/2025-02-02 1.md",
+    "home.canvas",
     "ideas.md",
-    "Untitled.canvas",
+    "done.md",
+    "resource.md",
     "read.md",
+    "home.md",
     "todo.md",
+    "hacks.md",
+    "bib.md",
+    "answer.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "daily/2025-02-02.md",
+    "daily/2025-02-02 1.md",
     "calendar",
     "Google",
-    "resource.md",
     "README.md",
     "daily",
-    "hacks.md",
-    "answer.md",
     "untitled folder",
     "Welcome.md"
   ]
