@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resource.md",
+                "file": "bib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resource"
+              "title": "bib"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md",
+                "file": "bib.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of todo"
+              "title": "Outline of bib"
             }
           },
           {
@@ -159,6 +159,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "f5d3f5d7ce63fe2e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -182,14 +192,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d6122af00b4799fe",
+  "active": "ac580a810ab0acfe",
   "lastOpenFiles": [
+    "home.md",
+    "Google",
+    "resource.md",
     "README.md",
     "read.md",
-    "resource.md",
     "learn.md",
     "ideas.md",
-    "home.md",
     "daily/2025-02-02.md",
     "todo.md",
     "daily",
