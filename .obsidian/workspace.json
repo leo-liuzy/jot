@@ -11,17 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Quick note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "home"
+              "icon": "lucide-file",
+              "title": "Quick note"
             }
           }
         ]
@@ -197,9 +195,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "home.canvas",
     "hacks.md",
     "done.md",
+    "Quick note.md",
+    "home.canvas",
     "answer.md",
     "README.md",
     "daily/2025-02-02.md",
