@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick note.md",
+                "file": "resource.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quick note"
+              "title": "resource"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ideas.md",
     "Quick note.md",
     "hacks.md",
     "done.md",
@@ -202,7 +203,6 @@
     "answer.md",
     "README.md",
     "daily/2025-02-02.md",
-    "ideas.md",
     "zotero",
     "learn.md",
     "resource.md",
