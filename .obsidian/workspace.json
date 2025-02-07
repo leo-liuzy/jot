@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resource.md",
+                "file": "Quick note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "resource"
+              "title": "Quick note"
             }
           }
         ]
@@ -189,11 +189,13 @@
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "resource.md",
     "ideas.md",
     "Quick note.md",
     "hacks.md",
@@ -204,7 +206,6 @@
     "daily/2025-02-02.md",
     "zotero",
     "learn.md",
-    "resource.md",
     "read.md",
     "home.md",
     "todo.md",
