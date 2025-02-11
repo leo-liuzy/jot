@@ -178,7 +178,7 @@ def test_reverse_false():
 [https://tex.stackexchange.com/questions/280590/work-around-for-minted-code-highlighting-in-arxiv#comment1207889_414781](https://tex.stackexchange.com/questions/280590/work-around-for-minted-code-highlighting-in-arxiv#comment1207889_414781)
 
 1. Compile with `\\usepackage[finalizecache,cachedir=.]{minted}`.
-2. (Overleaf) Go to `logs and output files` > `other logs and files` and download everything with **pyg**.
+2. (Overleaf) Go to `logs and output files` > `other logs and files` and download everything with **pyg**. Put the files into root directory.
 3. Change `finalizecache` to `frozencache` and upload the tex+all those pyg files to arXiv.
 
 **Optional**:
