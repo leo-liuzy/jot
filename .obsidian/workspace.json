@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick note.md",
+                "file": "hacks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quick note"
+              "title": "hacks"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +190,7 @@
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "e7a7b303c61786dc",

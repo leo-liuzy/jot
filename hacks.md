@@ -192,15 +192,3 @@ Took the `minted.sty` files directly from [github.com/gpoore/minted/blob/mast
 Repo to assure structured output from LLM:
 
 [https://github.com/jxnl/instructor](https://github.com/jxnl/instructor)
-
-# Paper reading legend:
-
-Red: that answer important followup question
-
-Yellow: technical details / definition; assumption
-
-Blue: high level summary / rephrasing about technical details;
-
-Green: high level takeaway / motivation for the paper
-
-Purple: example
