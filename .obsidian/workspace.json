@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resource.md",
+                "file": "Quick note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "resource"
+              "title": "Quick note"
             }
           }
         ]
@@ -196,14 +196,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Quick note.md",
+    "resource.md",
     "learn.md",
     "done.md",
-    "Quick note.md",
     "hacks.md",
     "todo.md",
     "read.md",
     "ideas.md",
-    "resource.md",
     "home.canvas",
     "answer.md",
     "README.md",
