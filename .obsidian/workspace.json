@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 200
   },
   "right": {
     "id": "e033bef7f4a38ae9",
@@ -196,17 +196,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Quick note.md",
-    "resource.md",
-    "learn.md",
-    "done.md",
     "hacks.md",
+    "README.md",
+    "done.md",
     "todo.md",
     "read.md",
+    "learn.md",
     "ideas.md",
-    "home.canvas",
+    "Quick note.md",
     "answer.md",
-    "README.md",
+    "resource.md",
+    "home.canvas",
     "daily/2025-02-02.md",
     "zotero",
     "home.md",
