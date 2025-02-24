@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick note.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quick note"
+              "title": "Untitled"
             }
           }
         ]
@@ -196,17 +196,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "PhD reflection chat.md",
+    "hacks.md",
+    "Untitled.md",
+    "resource.md",
     "Quick note.md",
+    "PhD reflection chat.md",
     "done.md",
     "read.md",
     "todo.md",
     "ideas.md",
     "learn.md",
-    "hacks.md",
     "README.md",
     "answer.md",
-    "resource.md",
     "home.canvas",
     "daily/2025-02-02.md",
     "zotero",
