@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Quick note"
             }
-          },
-          {
-            "id": "b9b8f6bf452be039",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +194,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b9b8f6bf452be039",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Quick note.md",
     "Untitled.md",
