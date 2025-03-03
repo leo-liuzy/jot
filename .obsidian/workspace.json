@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick note.md",
+                "file": "PhD reflection chat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quick note"
+              "title": "PhD reflection chat"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "PhD reflection chat.md",
     "Quick note.md",
+    "PhD reflection chat.md",
     "Untitled.md",
     "hacks.md",
     "resource.md",
