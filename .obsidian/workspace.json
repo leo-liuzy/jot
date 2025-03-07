@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick note.md",
+                "file": "hacks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quick note"
+              "title": "hacks"
             }
           }
         ]
@@ -190,21 +190,20 @@
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "PhD reflection chat.md",
+    "ideas.md",
     "Quick note.md",
-    "Untitled.md",
     "hacks.md",
+    "PhD reflection chat.md",
+    "Untitled.md",
     "resource.md",
     "done.md",
     "read.md",
     "todo.md",
-    "ideas.md",
     "learn.md",
     "README.md",
     "answer.md",
