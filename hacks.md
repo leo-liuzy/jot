@@ -31,6 +31,12 @@ sinfo -p
 ```bash
 squeue -u $USER
 ```
+
+## vista interactive node
+```bash
+idev -p gh -t 5:00:00 -N 1
+```
+
 # wandb
 ## Sync all offline wandb runs
 ```bash
