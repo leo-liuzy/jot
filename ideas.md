@@ -32,6 +32,7 @@ https://arxiv.org/abs/2402.13144
 
 
 
+
 ## Build consistent belief of LLM through interactive learning / interventional learning
 CLIN + Belief of LLM
 Build belief net from LLM before any interaction about the world; then, have the agent to interact and update the belief net; let the model either condition its behavior on the belief net; or see a way to burn the world model into the LM, so that the LLM could have a consistent belief. 
@@ -42,3 +43,19 @@ Continual learning should be multimodal, and, more interestingly, different moda
 
 e.g. letting the model to see new DJT's new official president image; then prompt the model to describe the image. See if the model would give the new description rather than the description about the old image.
 
+
+
+# Followup
+
+
+## Knowledge Propagator followup
+* Reason to update knowledge
+	* A self-supervised method to do what Tastu + Ben Zhou's think token do.
+		* Given query that requires updated knowledge.
+		* Break off to do some reasoning to resurface relevant knowledge and combine it to infer updated query
+		* Adaptive Confidence measure for when we need reasoning
+		* train with RL with self-supervision
+* MultiEdit:
+	* Using AlphaEdit
+	* Using RLEdit
+* 
