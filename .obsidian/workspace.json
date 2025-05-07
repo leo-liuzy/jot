@@ -203,8 +203,7 @@
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "f844a5b208f3d42d",
