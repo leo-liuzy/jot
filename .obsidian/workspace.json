@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Quick note"
             }
+          },
+          {
+            "id": "f844a5b208f3d42d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +207,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f844a5b208f3d42d",
   "lastOpenFiles": [
-    "hacks.md",
     "Quick note.md",
+    "hacks.md",
     "ideas.md",
     "learn.md",
     "read.md",
