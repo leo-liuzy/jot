@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greg NYU.md",
+                "file": "Quick note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Greg NYU"
+              "title": "Quick note"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ideas.md",
     "Quick note.md",
     "Greg NYU.md",
+    "ideas.md",
     "hacks.md",
     "learn.md",
     "read.md",
