@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Quick note"
             }
+          },
+          {
+            "id": "aa39d402ae77c8af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -190,10 +204,11 @@
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "aa39d402ae77c8af",
   "lastOpenFiles": [
     "Quick note.md",
     "Greg NYU.md",
