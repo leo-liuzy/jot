@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Quick note"
             }
-          },
-          {
-            "id": "aa39d402ae77c8af",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +195,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aa39d402ae77c8af",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Quick note.md",
     "Greg NYU.md",
