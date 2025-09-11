@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Quick note"
             }
+          },
+          {
+            "id": "89055f13326f7349",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,21 +208,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "89055f13326f7349",
   "lastOpenFiles": [
     "Quick note.md",
     "hacks.md",
-    "learn.md",
     "ideas.md",
     "Greg NYU.md",
+    "answer.md",
+    "README.md",
     "read.md",
     "todo.md",
     "done.md",
-    "bib.md",
-    "answer.md",
-    "README.md",
-    "PhD reflection chat.md",
+    "learn.md",
     "resource.md",
+    "PhD reflection chat.md",
+    "bib.md",
     "home.canvas",
     "daily/2025-02-02.md",
     "zotero",
