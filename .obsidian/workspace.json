@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Quick note"
             }
-          },
-          {
-            "id": "89055f13326f7349",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +195,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "89055f13326f7349",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Quick note.md",
     "hacks.md",
